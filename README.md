@@ -32,6 +32,7 @@ OUTPUT:
 
 2. **Armstrong number**
 Armstrong number is a number that is equal to the sum of cubes of its digits.
+
 INPUT: 153 OUTPUT: True
 INPUT: 2 OUTPUT: False
 3. **Palindrome number**
