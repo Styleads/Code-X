@@ -18,7 +18,7 @@
  6. Only 1 device will be allowed per team.
 
 # Series
-**1. Fibonacci sequence**
+1. **Fibonacci sequence**
 The Fibonacci sequence is a sequence in which each number is the sum of
 the two preceding ones.
 OUTPUT:
@@ -30,31 +30,31 @@ OUTPUT:
     267914296, 433494437, 701408733, 1134903170, 1836311903, 2971215073,
     4807526976, 7778742049.
 
-**2. Armstrong number**
+2. **Armstrong number**
 Armstrong number is a number that is equal to the sum of cubes of its digits.
 INPUT: 153 OUTPUT: True
 INPUT: 2 OUTPUT: False
-**3. Palindrome number**
+3. **Palindrome number**
 A number that remains the same when its digits are reversed.
 INPUT: 1441 OUTPUT: True
 INPUT: 223 OUTPUT: False
-**4. Harshad number**
+4. **Harshad number**
 A harshad number in a given number base is an integer that is
 divisible by the sum of its digits when written in that base.
 Eg: 21/(2+1) = 7
 INPUT: 156 OUTPUT: True
 INPUT: 22 OUTPUT: False
-**5. Krishnamurthy number**
+5. **Krishnamurthy number**
 A Krishnamurthy number is a number whose sum of the factorial of
 digits is equal to the number itself.
 INPUT: 145 OUTPUT: True
 INPUT: 133 OUTPUT: False
-**6. Evil number**
+6. **Evil number**
 An evil number is a non-negative number that has an even number of 1s in its
 binary expansion.
 .INPUT: 10 OUTPUT: True
 INPUT: 2 OUTPUT: False
-**7. Fascinating number**
+7. **Fascinating number**
 When a number( 3 digits or more ) is multiplied by 2 and 3, and
 when both these products are concatenated with the original
 number, then it results in all digits from 1 to 9 present exactly once.
