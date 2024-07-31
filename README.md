@@ -36,6 +36,7 @@ Armstrong number is a number that is equal to the sum of cubes of its digits.
 INPUT: 153 OUTPUT: True
 
 INPUT: 2 OUTPUT: False
+
 3. **Palindrome number**
 
 A number that remains the same when its digits are reversed.
@@ -43,6 +44,7 @@ A number that remains the same when its digits are reversed.
 INPUT: 1441 OUTPUT: True
 
 INPUT: 223 OUTPUT: False
+
 4. **Harshad number**
 
 A harshad number in a given number base is an integer that isdivisible by the sum of its digits when written in that base.
@@ -52,12 +54,14 @@ Eg: 21/(2+1) = 7
 INPUT: 156 OUTPUT: True
 
 INPUT: 22 OUTPUT: False
+
 5. **Krishnamurthy number**
 A Krishnamurthy number is a number whose sum of the factorial ofdigits is equal to the number itself.
 
 INPUT: 145 OUTPUT: True
 
 INPUT: 133 OUTPUT: False
+
 6. **Evil number**
 An evil number is a non-negative number that has an even number of 1s in itsbinary expansion.
 
