@@ -4,18 +4,12 @@
     lines will be considered.
  2. Points will only be given if the change made in the code works in
     all test cases2 points for every bug fix.
- 3. Additional points based on time taken to fix:
+ 3. 1 point for every 5 minutes left from the 1.5 hours allocated.
 
-		15 points for 1st place (quickest).
-		12 points for 2nd place.
-		10 points for 3rd place, and so on.
-
- 4. 1 point for every 5 minutes left from the 1.5 hours allocated.
-
- 5. Use of AI, google or any other resource is prohibited. In case
+ 4. Use of AI, google or any other resource is prohibited. In case
     someone is caught, they will be disqualified immediately.
 
- 6. Only 1 device will be allowed per team.
+ 5. Only 1 device will be allowed per team.
 
 # Series
 1. **Fibonacci sequence**
